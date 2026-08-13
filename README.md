@@ -1,4 +1,4 @@
-# Hey, I'm Louise 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+# Hey, I'm Louise Ivan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 
 [![Ryder](https://img.shields.io/badge/Ryder-black?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.ryder.id)
 [![X](https://img.shields.io/badge/@louiseivanvp-1D9BF0?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/louiseivanvp)
