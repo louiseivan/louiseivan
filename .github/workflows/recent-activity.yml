@@ -13,6 +13,58 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2.3.0
+
+      - name: rebuild activity section
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
+            "https://api.github.com/users/louiseivan/events/public?per_page=100" > /tmp/events.json
+          python3 - <<'EOF'
+          import json, re
+
+          events = json.load(open("/tmp/events.json"))
+          lines = []
+          for e in events:
+              t = e["type"]
+              repo = e["repo"]["name"]
+              repo_link = f"[{repo}](https://github.com/{repo})"
+              p = e.get("payload", {})
+              if t == "PushEvent":
+                  n = len(p.get("commits", []))
+                  lines.append(f"⬆️ Pushed {n} commit(s) to {repo_link}")
+              elif t == "CreateEvent" and p.get("ref_type") == "repository":
+                  lines.append(f"📔 Created new repository {repo_link}")
+              elif t == "WatchEvent":
+                  lines.append(f"⭐ Starred {repo_link}")
+              elif t == "PullRequestEvent" and p.get("action") == "opened":
+                  pr = p["pull_request"]
+                  lines.append(f"💪 Opened PR [#{pr['number']}]({pr['html_url']}) in {repo_link}")
+              elif t == "PullRequestEvent" and p.get("action") == "closed" and p["pull_request"].get("merged"):
+                  pr = p["pull_request"]
+                  lines.append(f"🎉 Merged PR [#{pr['number']}]({pr['html_url']}) in {repo_link}")
+              elif t == "IssuesEvent" and p.get("action") == "opened":
+                  i = p["issue"]
+                  lines.append(f"❗️ Opened issue [#{i['number']}]({i['html_url']}) in {repo_link}")
+              if len(lines) == 5:
+                  break
+
+          block = "\n".join(f"{i + 1}. {l}" for i, l in enumerate(lines))
+          readme = open("README.md").read()
+          new = re.sub(
+              r"(<!--RECENT_ACTIVITY:start-->).*?(<!--RECENT_ACTIVITY:end-->)",
+              lambda m: m.group(1) + "\n" + block + "\n" + m.group(2),
+              readme,
+              flags=re.S,
+          )
+          open("README.md", "w").write(new)
+          print(block or "(no matching events)")
+          EOF
+
+      - name: commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update recent activity"
+          git push
