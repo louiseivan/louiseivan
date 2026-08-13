@@ -25,13 +25,21 @@ jobs:
 
           events = json.load(open("/tmp/events.json"))
           lines = []
+          pushes = {}  # repo -> [line_index, commit_count]
           for e in events:
               t = e["type"]
               repo = e["repo"]["name"]
               repo_link = f"[{repo}](https://github.com/{repo})"
               p = e.get("payload", {})
               if t == "PushEvent":
-                  n = len(p.get("commits", []))
+                  n = p.get("size") or len(p.get("commits", []))
+                  if repo in pushes:  # merge into the existing line for this repo
+                      idx, total = pushes[repo]
+                      total += n
+                      pushes[repo] = [idx, total]
+                      lines[idx] = f"⬆️ Pushed {total} commit(s) to {repo_link}"
+                      continue
+                  pushes[repo] = [len(lines), n]
                   lines.append(f"⬆️ Pushed {n} commit(s) to {repo_link}")
               elif t == "CreateEvent" and p.get("ref_type") == "repository":
                   lines.append(f"📔 Created new repository {repo_link}")
