@@ -75,8 +75,8 @@ My 2026 promise is to be good at social media. It's working: my X got monetized 
 
 ### Recently, I worked on
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ![Louise's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiseivan&show_icons=true&theme=default&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louiseivan&layout=compact&hide_border=true)
