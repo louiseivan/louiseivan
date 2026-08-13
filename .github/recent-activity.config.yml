@@ -1,0 +1,16 @@
+settings:
+  username: "louiseivan"
+  commit_msg: "chore: update recent activity"
+  max_lines: 5
+  readme_file: "./README.md"
+  commit_name: "github-actions[bot]"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  line_prefix: "{NUM}. "
+messages:
+  push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
+  issue_opened: "❗️ Opened issue {ID} in {REPO}"
+  issue_closed: "✔️ Closed issue {ID} in {REPO}"
+  pr_opened: "💪 Opened PR {ID} in {REPO}"
+  pr_merged: "🎉 Merged PR {ID} in {REPO}"
+  create_repo: "📔 Created new repository {REPO}"
+  new_star: "⭐ Starred {REPO}"

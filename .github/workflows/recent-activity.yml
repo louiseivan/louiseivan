@@ -14,10 +14,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: Readme-Workflows/recent-activity@v2.3.0
-        with:
-          GH_USERNAME: louiseivan
-          MAX_LINES: 5
-          COMMIT_MSG: "chore: update recent activity"
-          PUSH_TEMPLATE: "⬆️ Pushed {AMOUNT} commit(s) to {REPO_LINK}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
