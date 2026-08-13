@@ -26,9 +26,7 @@ My 2026 promise is to be good at social media. It's working: my X got monetized 
 - Generated 13M Instagram views in 30 days
 - Helped grow the Stacks community to 100K+ members across 32 countries
 
-And there’s more, but the pattern is pretty consistent:
-
-Figure out distribution. Build the system. Compound what works.
+And there’s more, but the pattern is pretty consistent: I figure out distribution. Build the system and compound what works.
 
 ### 📚 Learnings and Hobbies
 
@@ -46,9 +44,6 @@ Figure out distribution. Build the system. Compound what works.
 4. ⬆️ Pushed commits to [louiseivan/louise-creator-vault](https://github.com/louiseivan/louise-creator-vault)
 5. ⬆️ Pushed commits to [louiseivan/creating-hooks-skill](https://github.com/louiseivan/creating-hooks-skill)
 <!--RECENT_ACTIVITY:end-->
-
-![Louise's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiseivan&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louiseivan&layout=compact&hide_border=true)
 
 ![pacman contribution graph](https://raw.githubusercontent.com/louiseivan/louiseivan/output/pacman-contribution-graph.svg)
 
