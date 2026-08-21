@@ -40,8 +40,6 @@ And there’s more, but the pattern is pretty consistent: I figure out distribut
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed commits to [louiseivan/louiseivan](https://github.com/louiseivan/louiseivan)
 2. ⬆️ Pushed commits to [louiseivan/seo-content-machine-via-claude-by-louise](https://github.com/louiseivan/seo-content-machine-via-claude-by-louise)
-3. ⬆️ Pushed commits to [louiseivan/louise-x-vault](https://github.com/louiseivan/louise-x-vault)
-4. ⬆️ Pushed commits to [louiseivan/louise-creator-vault](https://github.com/louiseivan/louise-creator-vault)
 <!--RECENT_ACTIVITY:end-->
 
 ![pacman contribution graph](https://raw.githubusercontent.com/louiseivan/louiseivan/output/pacman-contribution-graph.svg)
