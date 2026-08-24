@@ -12,7 +12,7 @@
 
 I'm Louise Ivan Valencia Payawal, Co-founder and CXO at [Ryder](https://www.ryder.id). We build hardware wallets for normal people, and we took the company from a 5K grant to $4.8M raised, shipping worldwide and securing millions in assets.
 
-I was born on one of the small islands of the Philippines and found home in Amsterdam. Before Ryder I was Growth Lead at Stacks, working on making Bitcoin programmable, with stops at Hiro PBC and Freehold along the way. One year of this life looked like 64 flights across 20+ countries, basically as long as I have my laptop, good wifi and nice cappuccino, I'm gucci.
+I was born on one of the small islands of the Philippines and found home in Amsterdam. Before Ryder I was Growth Lead at [Stacks](https://www.stacks.co/), working on making Bitcoin programmable, with stops at Hiro PBC and Freehold along the way. One year of this life looked like 64 flights across 20+ countries, basically as long as I have my laptop, good wifi and nice cappuccino, I'm gucci.
 
 My 2026 promise is to be good at social media. It's working: my X got monetized in 90 days on 10 minutes a day, and I wrote down [exactly how I did it](https://lightlabs.notion.site/Here-s-how-I-earned-money-on-X-in-90-days-while-spending-10-minutes-on-it-daily-2e10b6566cfd80a5bb25d5b9e0dd5305).
 
