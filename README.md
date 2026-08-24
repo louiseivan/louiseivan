@@ -24,7 +24,7 @@ My 2026 promise is to be good at social media. It's working: my X got monetized 
 - Monetized X in 90 days while spending ~10 minutes a day — [full playbook](https://lightlabs.notion.site/Here-s-how-I-earned-money-on-X-in-90-days-while-spending-10-minutes-on-it-daily-2e10b6566cfd80a5bb25d5b9e0dd5305)
 - Took 16 days to crack my first 5M-view Instagram video
 - Generated 13M Instagram views in 30 days
-- Helped grow the Stacks community from 50,000+ to [over 100,000 members, spanning communities across 32 countries.](https://bitpinas.com/business/ryder-crypto-wallet/)
+- Helped grow the Stacks community to [over 100,000 members, spanning communities across 32 countries.](https://bitpinas.com/business/ryder-crypto-wallet/)
 - Helped expand the developer ecosystem as Stacks grew from [2,500 to nearly 24,000 deployed smart contracts.](https://www.developerreport.com/developer-report)
 - Helped establish Stacks as the #1 Web3 project built on Bitcoin for two consecutive years, measured by developer activity.
 - Contributed to Stacks becoming a top-30 crypto ecosystem, [ranking #28 globally by total developers.](https://stacks.foundation/electric-capital-report-2023)
