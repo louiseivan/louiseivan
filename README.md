@@ -21,17 +21,15 @@ My 2026 promise is to be good at social media. It's working: my X got monetized 
 
 - Turned a $5K grant into $4.8M raised for Ryder
 - Grew Ryder to thousands of users securing millions in assets
-- Monetized X in 90 days while spending ~10 minutes a day — full playbook
+- Monetized X in 90 days while spending ~10 minutes a day — [full playbook](https://lightlabs.notion.site/Here-s-how-I-earned-money-on-X-in-90-days-while-spending-10-minutes-on-it-daily-2e10b6566cfd80a5bb25d5b9e0dd5305)
 - Took 16 days to crack my first 5M-view Instagram video
 - Generated 13M Instagram views in 30 days
 - Helped grow the Stacks community from 50,000+ to [over 100,000 members, spanning communities across 32 countries.](https://bitpinas.com/business/ryder-crypto-wallet/)
-- Helped expand the developer ecosystem as Stacks grew from 2,500 to nearly 24,000 deployed smart contracts.
+- Helped expand the developer ecosystem as Stacks grew from [2,500 to nearly 24,000 deployed smart contracts.](https://www.developerreport.com/developer-report)
 - Helped establish Stacks as the #1 Web3 project built on Bitcoin for two consecutive years, measured by developer activity.
-- Contributed to Stacks becoming a top-30 crypto ecosystem, ranking #28 globally by total developers.
+- Contributed to Stacks becoming a top-30 crypto ecosystem, [ranking #28 globally by total developers.](https://stacks.foundation/electric-capital-report-2023)
 
-Now developing a full-stack growth playbook across paid media, lifecycle email, and product activation, with hands-on experience scaling both software and hardware products.
-
-And there’s more, but the pattern is pretty consistent: I figure out distribution. Build the system and compound what works.
+Now developing a full-stack growth playbook across paid media, lifecycle email, and product activation, with hands-on experience scaling both software + hardware products. And there’s more, but the pattern is pretty consistent: I figure out distribution. Build the system and compound what works.
 
 ### 📚 Learnings and Hobbies
 
