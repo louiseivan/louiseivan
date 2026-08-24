@@ -36,7 +36,7 @@ Now developing a full-stack growth playbook across paid media, lifecycle email, 
 - I track everything I want to improve: growth, burn, training, sleep. If it isn't logged, it didn't happen.
 - I built my own fitness and protocol tracker because the apps out there couldn't keep up with what I wanted to log.
 - I paint and sketch. Arts, technology, and community are the three things that kept showing up everywhere I lived, and Ryder is where they overlap.
-- One carry-on, one packing list, zero decisions.
+- One carry-on (this is a lie I always overpack haha), one packing list, zero decisions.
 
 ### Repos, I worked on
 
