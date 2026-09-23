@@ -42,8 +42,6 @@ Now developing a full-stack growth playbook across paid media, lifecycle email, 
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Bennettxai/FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO)
-2. ⬆️ Pushed commits to [louiseivan/louiseivan](https://github.com/louiseivan/louiseivan)
-3. ⬆️ Pushed commits to [louiseivan/trustpilot-reviews-scraper](https://github.com/louiseivan/trustpilot-reviews-scraper)
 <!--RECENT_ACTIVITY:end-->
 
 ![pacman contribution graph](https://raw.githubusercontent.com/louiseivan/louiseivan/output/pacman-contribution-graph.svg)
