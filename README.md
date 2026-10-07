@@ -41,7 +41,8 @@ Now developing a full-stack growth playbook across paid media, lifecycle email, 
 ### Repos, I worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bennettxai/FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO)
+1. ⬆️ Pushed commits to [louiseivan/seo-content-machine-via-claude-by-louise](https://github.com/louiseivan/seo-content-machine-via-claude-by-louise)
+2. ⭐ Starred [Bennettxai/FounderOS-DEMO](https://github.com/Bennettxai/FounderOS-DEMO)
 <!--RECENT_ACTIVITY:end-->
 
 ![pacman contribution graph](https://raw.githubusercontent.com/louiseivan/louiseivan/output/pacman-contribution-graph.svg)
