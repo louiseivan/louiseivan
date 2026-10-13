@@ -41,9 +41,11 @@ Now developing a full-stack growth playbook across paid media, lifecycle email, 
 ### Repos, I worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed commits to [louiseivan/seo-content-machine-via-claude-by-louise](https://github.com/louiseivan/seo-content-machine-via-claude-by-louise)
-2. ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
-3. ⭐ Starred [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS)
+1. ⭐ Starred [pyang5166/gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll)
+2. ⭐ Starred [JohnHeibel/ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase)
+3. ⭐ Starred [feitangyuan/onetake](https://github.com/feitangyuan/onetake)
+4. ⬆️ Pushed commits to [louiseivan/seo-content-machine-via-claude-by-louise](https://github.com/louiseivan/seo-content-machine-via-claude-by-louise)
+5. ⭐ Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
 <!--RECENT_ACTIVITY:end-->
 
 ![pacman contribution graph](https://raw.githubusercontent.com/louiseivan/louiseivan/output/pacman-contribution-graph.svg)
