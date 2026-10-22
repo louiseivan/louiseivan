@@ -41,11 +41,11 @@ Now developing a full-stack growth playbook across paid media, lifecycle email, 
 ### Repos, I worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti)
-2. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
-3. ⭐ Starred [visgl/deck.gl](https://github.com/visgl/deck.gl)
-4. ⭐ Starred [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
-5. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+1. ⭐ Starred [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)
+2. ⭐ Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+3. ⭐ Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
+4. ⭐ Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+5. ⭐ Starred [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis)
 <!--RECENT_ACTIVITY:end-->
 
 ![pacman contribution graph](https://raw.githubusercontent.com/louiseivan/louiseivan/output/pacman-contribution-graph.svg)
